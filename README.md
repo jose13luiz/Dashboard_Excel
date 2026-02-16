@@ -1,4 +1,4 @@
-# O que é um dashboard no excel
+# O que é um Dashboard no Excel
 
 Um dashboard no Excel é um painel de controle visual e interativo, projetado para reunir e resumir os principais indicadores de desempenho (KPIs) e dados de uma empresa em uma única tela. Ele utiliza gráficos, tabelas dinâmicas, formatação condicional e segmentação de dados para facilitar a visualização rápida e a análise de informações, permitindo tomadas de decisão baseadas em dados concretos.
 
